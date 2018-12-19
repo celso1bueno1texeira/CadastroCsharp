@@ -1,0 +1,10 @@
+C:\Users\Celso\Source\Repos\login\login\bin\Debug\login.exe.config
+C:\Users\Celso\Source\Repos\login\login\bin\Debug\login.exe
+C:\Users\Celso\Source\Repos\login\login\bin\Debug\login.pdb
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.exe
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.pdb
+C:\Users\Celso\Source\Repos\login\login\obj\Debug\login.login.resources
